@@ -1,0 +1,142 @@
+{
+	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"https://play.google.com/store/apps/",
+      "pengaturan_iklan":"1",
+      "admob_open_ads":"ca-app-pub-3940256099942544/1033173712",
+      "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+      "admob_inter":"ca-app-pub-3940256099942544/1033173712",
+      "admob_native":"ca-app-pub-3940256099942544/2247696110",
+      "interval":1,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "judul":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "judul":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"BATMAN",
+      "skin_url":"http://lh3.googleusercontent.com/UyZKDkEo0Zsne-CjOWT8lfNcmqvlkYDPGCsEzPynY_F3jp_1MiKMYT4XhsvYjLn4_9OCK1Egl9c-852CzqA5zA",
+      "view_skin":"https://lh3.googleusercontent.com/9l3UxdBlM-m4FREcDjybLF-tdtpHjg3bAN54KrXfp3SNp3IA2mvMP_nX3VHJLraQ4mKR99znBcPL7T2TQ_qv"
+    },
+    {
+      "id":2,
+      "nama_skin":"JOKER",
+      "skin_url":"http://lh3.googleusercontent.com/N08330ToMwM-5HsK_NwWfSSLC9-kBg2VGytYg9_nyrdNPt6ZPUcPemg8yhiHfXf_Hq4KS2iTDYnMDYwXMd3zJ8_rP-TYtvaxSDY",
+      "view_skin":"https://lh3.googleusercontent.com/Ydeo76RMDChZpN0ABzJ7MjK4eACBjNuGywYFaxh2eWFR0-R-ERl2DGze02rxMoCQcPACLb5xbAa1b_l1swbjL1GsFz5BzCHpq_u9"
+    },
+    {
+      "id":3,
+      "nama_skin":"IRONMAN",
+      "skin_url":"http://lh3.googleusercontent.com/8BzjEkV7f7xIYZ4DKpfUeOhejYMt-fDQ-nOqTyPm83ShdQ8qR2P05J22gRH8o51Jb9Ui25CuZwPsVFh4vrqZuXG5h4x0M4VbTPk",
+      "view_skin":"https://lh3.googleusercontent.com/hiwboY1DZmc9Qr7MsKqtcfTz-IoZxpzTmIfUKfApWVD9ZIkuh0h18VlgqTiyQObZsw9Tjx1LcusPc1-2ijzHqWSOnKWWfw9saTE"
+    },
+
+    {
+      "id":4,
+      "nama_skin":"SPIDERMAN",
+      "skin_url":"http://lh3.googleusercontent.com/JIuMVQJIshV_DdplR7pnnwwwVfbBREFl0JWxNrfeKOChfZntYYsk_0cg_L9fYbTeaHmlY6KeAvIe0Vjf-AOPOOg",
+      "view_skin":"https://lh3.googleusercontent.com/J73KEDxCPrlFbBwboc_o2BLHc6KtxCvun6m5DLBYkwNVsEzMYx4rtrYnC_A4-AOrKYeWNXtwzuiZbwdY-hEQDZY"
+    },
+    {
+      "id":5,
+      "nama_skin":"FROST DIAMOND BLUE",
+      "skin_url":"http://lh3.googleusercontent.com/3D1uVgDFUh400ijpy0SaycfmKN474nCN4CrXk-FfYcCeq6OhqYZd_TkUTkWhr8TR-PKtn7YtVJ-CAgwiBnPvdDA",
+      "view_skin":"https://lh3.googleusercontent.com/E6uIeY4f0Bgcx9LlMXparCBnJrUxsqZcw1Wxd6Bv9SCIvVneoGcNUE48nQ01HV0Ga82C-DGPj60j-CkjYDEc"
+    },
+    {
+      "id":6,
+      "nama_skin":"CAPTAIN AMERICA",
+      "skin_url":"http://lh3.googleusercontent.com/oda0Fu14lq4LT-L8aGh9bBpwrymZZrz7K9owAmJ8CF0YSkaLa55vuSNZi-KYTMtpZubyhsXhbCja4C71Wba1",
+      "view_skin":"https://lh3.googleusercontent.com/LmKdzuCZnVc2WcjYsngvoSbJ3Qb72IZtinoIpViIMr6jbKbr-dp6XnqGL31e1p_CBC0OFXH3F668EBxweGx4Lg"
+    },
+
+    {
+      "id":7,
+      "nama_skin":"WOLVERINE",
+      "skin_url":"http://lh3.googleusercontent.com/wOV9t0UMGMwcGTt8BQoDlsGGNYkjJy6HyGbWgbwX_kqYtFz7G1ozjrWwal3hMcTLt94XayUY05h4X1WijgjlL1E",
+      "view_skin":"https://lh3.googleusercontent.com/mYfLwqH7vKGhU8PPI7WW1PhSdkHUbHCCnzNtFuAtUqkWpNrnN2_1CAXx32tj55G8l5IodMfklA0X9V4FH_EztS7VIFPqPjIt9noc"
+    },
+	  
+    {
+      "id":8,
+      "nama_skin":"HULK",
+      "skin_url":"http://lh3.googleusercontent.com/UsCcHMWnSDP8BnZB6eq1TFW-t2rKU66jGT8bPo29T9yzXr7oKw3xVbny4pF98-RbbA4IO1ErnF_DDxJ_KoQu",
+      "view_skin":"https://lh3.googleusercontent.com/sUoyOpx6O13SV9sGS-Dj35Rl1efWnhxthsIGwVYj9B1sSjbmNBs-o0Ow5-BjYAzS_xH4s7JIPBymvzC1zSM2Ig"
+    },
+	  
+    {
+      "id":9,
+      "nama_skin":"FROST DIAMOND RED",
+      "skin_url":"http://lh3.googleusercontent.com/ET33u8IGc-7KvRfshJCfkrHJ8UpKUQ5cd8nWUKvNjCF21QsaSveJ1RrTdrOnz-4Rvy2pYjX1xrxV2p6VwzAHR4I",
+      "view_skin":"https://lh3.googleusercontent.com/GRoTcQ2SQzp_Sgb8mbr8PY_4QMrPZJ5XR7Cvo8XbbHuz1olIwxsnFsAICUQieGKtTzP2p_7v8AkCeHKy9MOQ"
+    },
+
+    {
+      "id":10,
+      "nama_skin":"SUPERMAN",
+      "skin_url":"http://lh3.googleusercontent.com/V3r1nEYREe7W5YKNTzD8xkXmdcqt3xmRwsbDlP792jbY7RmwGvR2ipCC2uIURyCSErFBnTFG903RiWbI3Pl2V6E",
+      "view_skin":"https://lh3.googleusercontent.com/oriPXk5FYRzID-3LI_aXAx1KCW6do7UM7ajGZ63VB8IeyCz0F34y0w4gSl2fAa0Wr4sBGaA9vNqroYUTs4D0"
+    },
+    {
+      "id":11,
+      "nama_skin":"HULK",
+      "skin_url":"http://lh3.googleusercontent.com/yay2vGR_YMNMhhK9RURKKm2B3FkeEQuGgrUXXyXty9zgO1069nXrE-rvW--l-AgmhBS5Z3PWjTXLytSbZpt06Q",
+      "view_skin":"https://lh3.googleusercontent.com/bIo11vCTmzNBE_FixQ8abTTi7rTkxKWwD4msaaj0MxAZZoXXIY89mecz020fhrM5ho706t6sRhLGdI6RgkPZmB0"
+    },
+    {
+      "id":12,
+      "nama_skin":"SONGOKU",
+      "skin_url":"http://lh3.googleusercontent.com/WNJkQ4MWjhrd584xQogBFseTNK1buZMdoVfUxcyzNePqn-qX_FAUIA9STRuYbBzARQ-OcDBZvPQGeyKhNUzM",
+      "view_skin":"https://lh3.googleusercontent.com/pqHc0YVDGTxNQO0tuqKhw1GHhq-0_wfMz3V18GG_OCdykOhyBSFPr1C3cC27c206tKQgII_UVGb8YbsvKXWTBZVkfJNDXa25bK1X"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Cat Plush",
+      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
+      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
+      "des_add":"file:///android_asset/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
+      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
+      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+    }
+  ]
+}
