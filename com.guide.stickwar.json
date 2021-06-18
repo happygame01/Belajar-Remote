@@ -5,7 +5,7 @@
 
 	"json_popup_wait" : "Enjoy this apps",
 	
-	"mode_no_ads" : true,
+	"mode_no_ads" : false,
 	"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
 
 	
@@ -26,9 +26,9 @@
 
     "startapp" : "YOUR_APP_ID",
 
-    "admob_banner" : "ca-app-pub-3940256099942544/6300978111",
-    "admob_inter" : "ca-app-pub-3940256099942544/1033173712",
-    "admob_native" : "ca-app-pub-3940256099942544/2247696110",
+    "admob_banner" : "ca-app-pub-4170528621602491/5330231349",
+    "admob_inter" : "ca-app-pub-4170528621602491/6423821160",
+    "admob_native" : "ca-app-pub-4170528621602491/4483698319",
 	
 	"hpk_alien" : "kuota data 30gb",
     "hpkadmob1" : "Kuota Data",
