@@ -13,12 +13,12 @@
 	"pengaturan_iklan_inter": "1",
 	"pengaturan_iklan_native": "1",
 	
-    "inter_count" : 3,
+    "inter_count" : 4,
 
     "enable_strap" : true,
     "enable_strap_Splah" : true,
 
-    "ads_on_exit_dialog" : false,
+    "ads_on_exit_dialog" : true,
 
     "mode_offline_mp3" : false,
 	"enable_sticky_notification" : true,
@@ -26,9 +26,9 @@
 
     "startapp" : "205347801",
 
-    "admob_banner" : "ca-app-pub-4170528621602491/9788351101",
-    "admob_inter" : "ca-app-pub-4170528621602491/5923211999",
-    "admob_native" : "ca-app-pub-4170528621602491/5849106092",
+    "admob_banner" : "ca-app-pub-9342995916783234/2685425126",
+    "admob_inter" : "ca-app-pub-9342995916783234/9999974213",
+    "admob_native" : "ca-app-pub-9342995916783234/9248825862",
 	
 	"hpk_alien" : "kuota data 30gb",
     "hpkadmob1" : "Kuota Data",
