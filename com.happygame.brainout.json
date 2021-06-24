@@ -7,8 +7,8 @@
 "Json_popup_Wait" : "Enjoy your apps :)",
 
 
-"MODE_NO_ADS" : true,
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
 // mode pengaturan iklan
@@ -35,9 +35,9 @@
 
 "STARAPPID" : "201365479",
 
-"ADMOB_BANNER" : "ca-app-pub-2314593950848693/9824586142",
-"ADMOB_INTER" : "ca-app-pub-2314593950848693/8511504478",
-"ADMOB_NATIV" : "ca-app-pub-2314593950848693/5885341134",
+"ADMOB_BANNER" : "ca-app-pub-9342995916783234/9052604497",
+"ADMOB_INTER" : "ca-app-pub-9342995916783234/1178764158",
+"ADMOB_NATIV" : "ca-app-pub-9342995916783234/8865682481",
 
 "hpk_alien" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
