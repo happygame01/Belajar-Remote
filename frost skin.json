@@ -4,7 +4,7 @@
     {
       "status":"0",
       "link":"https://play.google.com/store/apps/",
-      "pengaturan_iklan":"0",
+      "pengaturan_iklan":"3",
       "admob_open_ads":"ca-app-pub-3940256099942544/1033173712",
       "admob_banner":"ca-app-pub-3940256099942544/6300978111",
       "admob_inter":"ca-app-pub-3940256099942544/1033173712",
@@ -13,7 +13,7 @@
       "fan_inter":"",
       "fan_banner":"",
       "fan_native":"",
-      "startappid":""
+      "startappid":"205816062"
     }
   ],
   "More":
@@ -22,19 +22,19 @@
       "id":1,
       "judul":"Ludo King",
       "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "link":"https://play.google.com/store/apps/details?id=com.gigihkurnia.girlwallpapers.sjrw&hl=in&gl=US"
     },
     {
       "id":2,
       "judul":"Homescapes",
       "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      "link":"https://play.google.com/store/apps/details?id=com.handevstudio.fnfwalkthrough.hndl&hl=in&gl=US"
     },
     {
       "id":3,
       "judul":"Minecraft",
       "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "link":"https://play.google.com/store/apps/details?id=com.happygames.stickwar.guide.tips.tricks.hndl&hl=in&gl=US"
     }
   ],
   "Skin":
