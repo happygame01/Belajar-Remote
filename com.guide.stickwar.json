@@ -11,9 +11,9 @@
 	
 	"pengaturan_iklan_banner": "5",
 	"pengaturan_iklan_inter": "5",
-	"pengaturan_iklan_native": "",
+	"pengaturan_iklan_native": "5",
 	
-    "inter_count" : 3,
+    "inter_count" : 4,
 
     "enable_strap" : true,
     "enable_strap_Splah" : true,
