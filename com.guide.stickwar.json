@@ -9,11 +9,11 @@
 	"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 	
-	"pengaturan_iklan_banner": "1",
-	"pengaturan_iklan_inter": "1",
-	"pengaturan_iklan_native": "1",
+	"pengaturan_iklan_banner": "3",
+	"pengaturan_iklan_inter": "3",
+	"pengaturan_iklan_native": "3",
 	
-    "inter_count" : 2,
+    "inter_count" : 3,
 
     "enable_strap" : true,
     "enable_strap_Splah" : true,
@@ -47,9 +47,9 @@
 
 	"appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
 	
-	"unity_banner_id" : "banner",
-	"unity_inters_id" : "interstitial",
-	"unity_id" : "4045251",
+	"unity_banner_id" : "Banner_Android",
+	"unity_inters_id" : "Interstitial_Android",
+	"unity_id" : "4201409",
 	"unity_test" : "true",
 	
 	
