@@ -9,9 +9,9 @@
 	"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 	
-	"pengaturan_iklan_banner": "3",
-	"pengaturan_iklan_inter": "3",
-	"pengaturan_iklan_native": "3",
+	"pengaturan_iklan_banner": "5",
+	"pengaturan_iklan_inter": "5",
+	"pengaturan_iklan_native": "5",
 	
     "inter_count" : 3,
 
