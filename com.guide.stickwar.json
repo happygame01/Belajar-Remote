@@ -13,7 +13,7 @@
 	"pengaturan_iklan_inter": "5",
 	"pengaturan_iklan_native": "5",
 	
-    "inter_count" : 4,
+    "inter_count" : 3,
 
     "enable_strap" : true,
     "enable_strap_Splah" : true,
@@ -26,9 +26,9 @@
 
     "startapp" : "205347801",
 
-    "admob_banner" : "ca-app-pub-9342995916783234/2258485144",
-    "admob_inter" : "ca-app-pub-9342995916783234/3379995128",
-    "admob_native" : "ca-app-pub-9342995916783234/5140811112",
+    "admob_banner" : "",
+    "admob_inter" : "",
+    "admob_native" : "",
 	
 	"hpk_alien" : "kuota data 30gb",
     "hpkadmob1" : "Kuota Data",
@@ -53,8 +53,8 @@
 	"unity_test" : "false",
 	
 	
-	"applovin_banner_id" : "71f5faf4df08917c",
-	"applovin_inters_id" : "4711e1718612d7dc",
+	"applovin_banner_id" : "",
+	"applovin_inters_id" : "",
 
     
     "exit_popup_dialog" : "Thanks for using this apps, Support us on Google Playstore :)",
