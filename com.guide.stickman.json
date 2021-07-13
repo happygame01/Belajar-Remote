@@ -26,9 +26,9 @@
 
     "startapp" : "205347801",
 
-    "admob_banner" : "ca-app-pub-9342995916783234/2685425126",
-    "admob_inter" : "ca-app-pub-9342995916783234/9999974213",
-    "admob_native" : "ca-app-pub-9342995916783234/9248825862",
+    "admob_banner" : "",
+    "admob_inter" : "",
+    "admob_native" : "",
 	
 	"hpk_alien" : "kuota data 30gb",
     "hpkadmob1" : "Kuota Data",
